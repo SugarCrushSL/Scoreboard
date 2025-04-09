@@ -1,0 +1,2 @@
+# Scoreboard
+SecondLife Voting Scoreboard
